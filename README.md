@@ -18,3 +18,13 @@ For a 2V dome:
 | B-connectors | 70       |
 
 
+## How to assemble:
+
+- source 65 pieces of 40mm tubing
+- line up each tube with the bend in the connector pieces
+- drill the two holes, the bolts are 8mm so try to drill close to that
+- using a dome calculator calculate the tube lengths, there are two lengths, "A" and "B". "A" is the shorter of the tubes
+- assemble the hubs first, slotting in the correct connector parts. Bolt through each of the holes making sure not to overtighten
+- bolt tubes into the connectors
+
+
